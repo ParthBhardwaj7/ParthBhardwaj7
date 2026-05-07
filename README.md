@@ -37,7 +37,7 @@ stack:     Go · Node.js · Python · Kubernetes · Docker · GCP · AWS
 focus:     Scalable systems · Microservices · LLM Integration · Cloud Infra
 portfolio: https://portfolio-website-chi-sooty-71.vercel.app
 email:     parthbhardwaj2579@gmail.com
-goal:      High-paying remote engineering role (500K+)
+goal:      High-paying remote engineering role 
 mindset:   "Execution > Motivation"
 ```
 
@@ -52,7 +52,7 @@ Skilled in developing database-driven systems using **PostgreSQL** and **MongoDB
 - 🔭 Currently focused on **DevOps, Kubernetes, and Cloud Infrastructure**
 - 🌱 Learning **Go (Golang), System Design, and Advanced Kubernetes**
 - ⚡ Building skills in **Docker, CI/CD, Microservices, LLM Integration, MCP**
-- 🎯 Goal: Land a **high-paying remote engineering role (500K+)**
+- 🎯 Goal: Land a **high-paying remote engineering role **
 - 💡 Mindset: **Execution > Motivation**
 
 ---

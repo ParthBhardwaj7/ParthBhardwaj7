@@ -35,7 +35,7 @@ name:      Parth Bhardwaj
 role:      DevOps Engineer · Backend & AI Developer
 stack:     Go · Node.js · Python · Kubernetes · Docker · GCP · AWS
 focus:     Scalable systems · Microservices · LLM Integration · Cloud Infra
-portfolio: https://portfolio-website-chi-sooty-71.vercel.app
+portfolio: https://parthbhardwaj.com
 email:     parthbhardwaj2579@gmail.com
 goal:      High-paying remote engineering role 
 mindset:   "Execution > Motivation"
@@ -186,7 +186,7 @@ Skilled in developing database-driven systems using **PostgreSQL** and **MongoDB
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366f1?style=for-the-badge)](https://portfolio-website-chi-sooty-71.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366f1?style=for-the-badge)](https://parthbhardwaj.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-22c55e?style=for-the-badge)](https://portfolio-website-chi-sooty-71.vercel.app/api/public/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth_Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthbhardwaj7)
 [![GitHub](https://img.shields.io/badge/GitHub-parthbhardwaj7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthbhardwaj7)
